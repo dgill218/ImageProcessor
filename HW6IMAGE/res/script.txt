@@ -1,0 +1,4 @@
+load boston.jpeg boston
+greyscale boston grey-boston
+save grey-boston.jpeg grey-boston
+exit
